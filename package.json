@@ -1,0 +1,17 @@
+{
+  "name": "com.sgp.nodejs",
+  "version": "1.0.0",
+  "description": "this is project my first node js ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ismaelmazrooei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "express-validator": "^7.0.1"
+  }
+}
